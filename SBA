@@ -2,8 +2,6 @@ PlayerServiceServlet.java
 
 package com.player;
 
-package com.player;
-
 import java.io.IOException;
 import java.io.PrintWriter;
 
